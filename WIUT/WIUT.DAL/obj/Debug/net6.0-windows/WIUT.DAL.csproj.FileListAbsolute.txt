@@ -1,0 +1,29 @@
+E:\WIUT\Seminars\TW 15\WIUT\WIUT.DAL\bin\Debug\net6.0-windows\WIUT.DAL.deps.json
+E:\WIUT\Seminars\TW 15\WIUT\WIUT.DAL\bin\Debug\net6.0-windows\WIUT.DAL.dll
+E:\WIUT\Seminars\TW 15\WIUT\WIUT.DAL\bin\Debug\net6.0-windows\WIUT.DAL.pdb
+E:\WIUT\Seminars\TW 15\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\WIUT.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\WIUT\Seminars\TW 15\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\WIUT.DAL.AssemblyInfoInputs.cache
+E:\WIUT\Seminars\TW 15\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\WIUT.DAL.AssemblyInfo.cs
+E:\WIUT\Seminars\TW 15\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\WIUT.DAL.csproj.CoreCompileInputs.cache
+E:\WIUT\Seminars\TW 15\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\WIUT.DAL.sourcelink.json
+E:\WIUT\Seminars\TW 15\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\WIUT.DAL.dll
+E:\WIUT\Seminars\TW 15\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\refint\WIUT.DAL.dll
+E:\WIUT\Seminars\TW 15\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\WIUT.DAL.pdb
+E:\WIUT\Seminars\TW 15\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\ref\WIUT.DAL.dll
+E:\WIUT\Seminars\TW 15\WIUT\WIUT.DAL\bin\Debug\net6.0-windows\WIUT.DAL.runtimeconfig.json
+E:\WIUT\Seminars\TW 15\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\WIUT.DAL.csproj.AssemblyReference.cache
+E:\WIUT\Seminars\TW 15\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\WIUT.DAL.genruntimeconfig.cache
+\\peter\ZDrive\00016885\Desktop\WIUT\WIUT.DAL\bin\Debug\net6.0-windows\WIUT.DAL.deps.json
+\\peter\ZDrive\00016885\Desktop\WIUT\WIUT.DAL\bin\Debug\net6.0-windows\WIUT.DAL.runtimeconfig.json
+\\peter\ZDrive\00016885\Desktop\WIUT\WIUT.DAL\bin\Debug\net6.0-windows\WIUT.DAL.dll
+\\peter\ZDrive\00016885\Desktop\WIUT\WIUT.DAL\bin\Debug\net6.0-windows\WIUT.DAL.pdb
+\\peter\ZDrive\00016885\Desktop\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\WIUT.DAL.csproj.AssemblyReference.cache
+\\peter\ZDrive\00016885\Desktop\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\WIUT.DAL.GeneratedMSBuildEditorConfig.editorconfig
+\\peter\ZDrive\00016885\Desktop\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\WIUT.DAL.AssemblyInfoInputs.cache
+\\peter\ZDrive\00016885\Desktop\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\WIUT.DAL.AssemblyInfo.cs
+\\peter\ZDrive\00016885\Desktop\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\WIUT.DAL.csproj.CoreCompileInputs.cache
+\\peter\ZDrive\00016885\Desktop\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\WIUT.DAL.dll
+\\peter\ZDrive\00016885\Desktop\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\refint\WIUT.DAL.dll
+\\peter\ZDrive\00016885\Desktop\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\WIUT.DAL.pdb
+\\peter\ZDrive\00016885\Desktop\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\WIUT.DAL.genruntimeconfig.cache
+\\peter\ZDrive\00016885\Desktop\WIUT\WIUT.DAL\obj\Debug\net6.0-windows\ref\WIUT.DAL.dll
